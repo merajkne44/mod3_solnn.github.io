@@ -1,0 +1,33 @@
+.block1{
+	background-color: grey;
+	padding: 25px;
+	border:1px solid black;
+	border-radius:7px;
+	margin: 10px;
+}
+.block2{
+	background-color: grey;
+	padding:25px;
+	border:1px solid black;
+	border-radius:7px;
+	margin: 10px;
+}
+.block3{
+	background-color: grey;
+	padding:25px;
+	border:1px solid black;
+	border-radius:7px;
+	margin: 10px;
+}
+a{
+	width: 50px;
+}
+.m{
+	text-align: center;
+}
+.p{
+	font-size: 50px;
+}
+.g{
+	margin-left: 10px;
+}
